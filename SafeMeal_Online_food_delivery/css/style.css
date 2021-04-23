@@ -12,7 +12,7 @@
 /* Navigation Bar */
 #navbar {
   display: flex;
-  position: relative;
+  position: sticky;
   top: 0px;
   align-items: center;
 }
@@ -21,12 +21,12 @@
   content: "";
   background-color: black;
   position: absolute;
-  height: 100%;
+  height: 90%;
   width: 100%;
   top: 0px;
   left: 0px;
   z-index: -1;
-  opacity: 0.99;
+  opacity: 0.4;
 }
 
 /* Navigation Bar: Logo and Image */
@@ -130,7 +130,7 @@
   position: absolute;
   background: url(../assets/pizza_2.jpg);
   width: 100%;
-  height: 278px;
+  height: 294px;
   z-index: -1;
   opacity: 0.4;
 }
@@ -162,6 +162,53 @@
   display: flex;
   position: relative;
   padding-left: 25px;
+}
+/* Contact Section */
+#contact {
+  position: relative;
+  padding-top: 56px;
+}
+
+#contact::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 652px ;
+  z-index: -1;
+  opacity: 0.7;
+  background: url('../assets/contact.jpg') no-repeat center center/cover;
+}
+
+#contact-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 34px;
+}
+
+#contact-box input, #contact-box textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border-radius: 9px;
+  font-size: 1.1rem;
+}
+
+#contact-box form {
+  width: 40%;
+}
+
+#contact-box label {
+  font-size: 1.3rem;
+  font-family: "Bree Serif", serif;
+}
+
+
+
+/* Footer */
+footer {
+  background-color: black;
+  color: white;
+  padding: 9px 20px;
 }
 
 /* Utility Classes */
