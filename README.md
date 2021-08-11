@@ -2,7 +2,7 @@
 
 > This my collective projects made using pure HTML, CSS, JavaScript. I made these while learning so some of them are inspired from YouTube content creators, so many many Thanks to them :) 
 
-### Live Sites
+### ⏬ Websites
 
 1️⃣ ```Bio Data``` | [Live Site](https://sumuhere.github.io/html-css-js-beginner-projects/Biodata/biodata.html)
 
