@@ -1,6 +1,8 @@
-## Begginer Friendly Websites made using HTML, CSS, JavaScript
+## Begginer Friendly Projects made using HTML5, CSS3, JavaScript
 
-> This my collective projects made using pure HTML, CSS, JavaScript. I made these while learning so some of them are inspired from YouTube content creators, so many many Thanks to them :) 
+> This repo is collection of my projects (mostly sites) made using HTML5, CSS3, JavaScript. I made these while learning so some of them are inspired from YouTube content creators, so many many Thanks to them :) 
+
+P.S Some of the projects may contain CSS frameworks or JS Library 
 
 ### ⏬ Websites
 
