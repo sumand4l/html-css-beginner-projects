@@ -10,6 +10,6 @@ P.S Some of the projects may contain CSS frameworks or JS Library
 
 2️⃣ ```SafeMeal - an Online Food Service``` | [Live Site](https://sumuhere.github.io/web-dev-projects/SafeMeal/index.html)
 
-3️⃣ ```Central Calcutta Polytechnic``` | [Live Site](https://sumuhere.github.io/ccpkolkata/)
+3️⃣ ```Central Calcutta Polytechnic``` | [Live Site](https://ccpsite.pages.dev/)
 
-4️⃣ ```West Bengal Tourism``` | [Live Site](https://sumuhere.github.io/wbtourism/)
+4️⃣ ```West Bengal Tourism``` | [Live Site](https://wbtourism-suman.pages.dev/)
