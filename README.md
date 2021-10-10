@@ -12,4 +12,4 @@ P.S Some of the projects may contain CSS frameworks or JS Library
 
 3️⃣ ```Central Calcutta Polytechnic``` | [Live Site](https://ccpsite.pages.dev/)
 
-4️⃣ ```West Bengal Tourism``` | [Live Site](https://wbtourism-suman.pages.dev/)
+4️⃣ ```West Bengal Tourism``` | [Live Site](https://tourismwb.pages.dev/)
