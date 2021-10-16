@@ -7,6 +7,7 @@ font-family: 'Ubuntu', sans-serif;
   --main-color: #ff4c68;
   --icon-color: #ef8172;
   --grey-color: #8f8f8f;
+  --testimonials-color: #E56153;
 }
 
 body {
@@ -57,7 +58,7 @@ body {
 .title-image {
     width: 60%;
     transform: rotate(25deg);
-    margin: 0 0 0 40%;
+    margin: 0 0 0 30%;
 }
 
 /* Features Section */
@@ -87,4 +88,42 @@ body {
 
 .feature-icon:hover {
     color: var(--main-color);
+}
+
+/* Testimonials */
+
+#testimonials {
+    text-align: center;
+    /* background-color: var(--testimonials-color); */
+    background-image: url('../images/testimonial-background.png');
+    color: #fff;
+}
+
+#testimonials h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+.carousel-item {
+     padding: 7% 15%; /* padded the carousel buttons and indicators */
+}
+
+.testimonial-image {
+    width: 12%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+/* Press */
+
+#press {
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 55px 25px;
 }
