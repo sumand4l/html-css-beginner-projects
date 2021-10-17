@@ -127,3 +127,34 @@ body {
     width: 15%;
     margin: 55px 25px;
 }
+
+/* Pricing section */
+
+#pricing {
+    padding: 0 80px 50px;
+    text-align: center;
+}
+
+.pricing-title {
+    margin-bottom: 4%;
+}
+
+.pricing-title h2 {
+    padding-bottom: 7px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.pricing-title p {
+    color: var(--grey-color);
+}
+
+.card-column {
+    padding: 2%;
+}
+
+.pricing-card-title {
+    padding: 3% 0;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+}
