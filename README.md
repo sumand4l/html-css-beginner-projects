@@ -1,8 +1,8 @@
-## Begginer Friendly Projects made using HTML5, CSS3, JavaScript
+## Projects made using HTML5, CSS3, JavaScript and Web-Frameworks
 
-> This repo is collection of my projects (mostly sites) made using HTML5, CSS3, JavaScript. I made these while learning so some of them are inspired from YouTube content creators, so many many Thanks to them :) 
+> This repo is a index of my Web Development projects (mostly sites). I made some of the projects while learning new technologies so those are based on tutorial and some of are my assignments.
 
-P.S Some of the projects may contain CSS frameworks or JS Library 
+:copyright: ```All Designs and Assets are Copyrighted to their respective owners```
 
 ### ⏬ Websites
 
@@ -10,6 +10,8 @@ P.S Some of the projects may contain CSS frameworks or JS Library
 
 2️⃣ ```SafeMeal - an Online Food Service``` | [Live Site](https://thatsuman.github.io/web-dev-projects/SafeMeal/index.html)
 
-3️⃣ ```Central Calcutta Polytechnic``` | [Live Site](https://ccpsite.pages.dev/)
+3️⃣ ```Central Calcutta Polytechnic``` | [Live Site](https://ccp.suman.social/)
 
-4️⃣ ```West Bengal Tourism``` | [Live Site](https://tourismwb.pages.dev/)
+4️⃣ ```West Bengal Tourism``` | [Live Site](https://tourism.suman.social/)
+
+:five: ```tindog - Tinder but for dogs``` | [Live Site](https://tindog.suman.social) 
