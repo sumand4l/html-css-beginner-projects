@@ -1,6 +1,6 @@
 ## Projects made using HTML5, CSS3, JavaScript and Web-Frameworks
 
-> This repo is a index of my Web Development projects (mostly sites). I made some of the projects while learning new technologies so those are based on tutorial and some of are my assignments.
+> This repo is a index of my Web Development projects. I made some of the projects while learning new technologies and some of are my assignments and hobby projects.
 
 :copyright: ```All Designs and Assets are Copyrighted to their respective owners```
 
